@@ -28,3 +28,4 @@ goal coordinates, all of which was shown on the screen:
 The final result was quite slow on account of the single point LIDAR having to scan with a servo (a 360 degree LIDAR would be better) but 
 it worked as a proof of concept, and I am happy with the results:
 <img src = https://github.com/robosam2003/Autonomous-Navigation-Robot/blob/master/resources/Gifs/timelapseNAVIRobot.gif width = 1000>
+(Timelapse)
