@@ -10,6 +10,7 @@ It is powered by a large powerbank (for 5V power) and a 4s (14.4V-16.8V) lithium
 
 It was mostly 3D printed (the base was sign-board (aluminuim-polycarbonate composite), and had rubber (from an old inner tube) added to the wheels for grip.
 It could be controlled by a third party playstation controller as well, and was really fun to drive around (*small drift whoop*):
+
 <img src = https://github.com/robosam2003/Autonomous-Navigation-Robot/blob/master/resources/Gifs/drifting.gif width = 400>
 
 The wheels were extremely over engineered for the task at hand...
