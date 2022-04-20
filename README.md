@@ -29,3 +29,5 @@ The final result was quite slow on account of the single point LIDAR having to s
 it worked as a proof of concept, and I am happy with the results:
 <img src = https://github.com/robosam2003/Autonomous-Navigation-Robot/blob/master/resources/Gifs/timelapseNAVIRobot.gif width = 1000>
 (Timelapse)
+
+For a more detailed dive into the design, development and testing process, see [`Autonomous-Navigation-Robot/Navigation robot project (11000 words).pdf`](https://github.com/robosam2003/Autonomous-Navigation-Robot/blob/master/Navigation%20robot%20project%20(11000%20words).pdf)
